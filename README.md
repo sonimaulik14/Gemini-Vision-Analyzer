@@ -81,10 +81,3 @@ Enter the image file path: /Users/maulik/Desktop/cat.png
 This image shows a cat sitting on a wooden bench with trees in the background...
 ```
 
----
-
-## 📄 License
-
-This project is for educational and demonstration purposes only. Not affiliated with Google.
-
----
